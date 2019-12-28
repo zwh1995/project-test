@@ -1,0 +1,795 @@
+{
+  "cinemas": [
+    {
+      "id": 16285,
+      "mark": 0,
+      "nm": "耀莱成龙影城（温泉镇店）",
+      "sellPrice": "45",
+      "addr": "海淀区温泉镇北部文化中心D座",
+      "distance": "2km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [
+          "杜比全景声厅",
+          "60帧厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "杜比全景声厅",
+            "url": ""
+          },
+          {
+            "name": "60帧厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单1张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 25172,
+      "mark": 0,
+      "nm": "华联影城（肖家河店）",
+      "sellPrice": "30.9",
+      "addr": "海淀区龙背村路99号院北京华联龙背购物中心",
+      "distance": "8.9km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 26195,
+      "mark": 0,
+      "nm": "大地院线影城（珠江摩尔店）",
+      "sellPrice": "33",
+      "addr": "昌平区回龙观镇北清路1号院7号楼内7-101-26",
+      "distance": "9.8km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 107,
+      "mark": 0,
+      "nm": "中影国际影城（昌平永旺店）",
+      "sellPrice": "39",
+      "addr": "昌平区北清路1号永旺国际商城3楼",
+      "distance": "9.8km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [
+          "DTS:X 临境音厅",
+          "60帧厅",
+          "CINITY厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "DTS:X 临境音厅",
+            "url": ""
+          },
+          {
+            "name": "60帧厅",
+            "url": ""
+          },
+          {
+            "name": "CINITY厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 26808,
+      "mark": 0,
+      "nm": "耀莱成龙影城（玉泉山店）",
+      "sellPrice": "39",
+      "addr": "海淀区北坞嘉园南里35号楼玉泉商业生活中心",
+      "distance": "11km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [
+          "4DX厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "4DX厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单1张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 25814,
+      "mark": 0,
+      "nm": "莱纳龙域影城",
+      "sellPrice": "29.9",
+      "addr": "昌平区龙域中街1号院1号楼昌发展万科广场5层",
+      "distance": "11.3km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [
+          "杜比全景声厅",
+          "DTS:X 临境音厅",
+          "4K厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "杜比全景声厅",
+            "url": ""
+          },
+          {
+            "name": "DTS:X 临境音厅",
+            "url": ""
+          },
+          {
+            "name": "4K厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 27962,
+      "mark": 0,
+      "nm": "华联影城（上地店）",
+      "sellPrice": "23.9",
+      "addr": "海淀区上地南口华联商厦4F（近上地南口）",
+      "distance": "11.4km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 25346,
+      "mark": 0,
+      "nm": "华联影院（回龙观店）",
+      "sellPrice": "23",
+      "addr": "昌平区回龙观镇西大街111号三层F3-90",
+      "distance": "11.6km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 27624,
+      "mark": 0,
+      "nm": "沙河镇中影智信影城",
+      "sellPrice": "38",
+      "addr": "昌平区奇点中心（北京市昌平区能源东路1号）",
+      "distance": "11.9km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 0,
+        "vipTag": ""
+      },
+      "promotion": {
+        "cardPromotionTag": "",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 9459,
+      "mark": 0,
+      "nm": "中间影院",
+      "sellPrice": "46",
+      "addr": "海淀区杏石口路中间艺术园区内（中间艺术园区内）",
+      "distance": "12.5km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [
+          "4K厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "4K厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": ""
+      },
+      "promotion": {
+        "cardPromotionTag": "",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 9647,
+      "mark": 0,
+      "nm": "沃美影城（回龙观店）",
+      "sellPrice": "39",
+      "addr": "昌平区回龙观同成街华联购物中心四楼（城铁回龙观站出口对面）",
+      "distance": "13.1km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [
+          "杜比全景声厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "杜比全景声厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 7433,
+      "mark": 0,
+      "nm": "大地影院（西三旗物美店）",
+      "sellPrice": "37.9",
+      "addr": "海淀区悦秀路99号二层",
+      "distance": "13.1km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单1张最高立减10元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 5111,
+      "mark": 0,
+      "nm": "北京清河CGV影城",
+      "sellPrice": "54",
+      "addr": "海淀区清河中街68号华润五彩城购物中心东区7层",
+      "distance": "13.2km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [
+          "60帧厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "60帧厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，9.9元起开卡",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 86,
+      "mark": 0,
+      "nm": "橙天嘉禾影城（万柳店）",
+      "sellPrice": "48.9",
+      "addr": "海淀区巴沟路2号华联万柳购物中心5层",
+      "distance": "13.6km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单1张最高立减10元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 141,
+      "mark": 0,
+      "nm": "海淀工人文化宫",
+      "sellPrice": "23",
+      "addr": "海淀区万柳华府北街2号（万柳华联商城南门对面）",
+      "distance": "13.7km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 5502,
+      "mark": 0,
+      "nm": "保利国际影城（龙旗广场店）",
+      "sellPrice": "38.9",
+      "addr": "昌平区黄平路19号院3号楼龙旗广场购物中心3层（地铁8号线育新站路北600米，近永辉超市）",
+      "distance": "13.8km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [
+          "4K厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "4K厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 197,
+      "mark": 0,
+      "nm": "美嘉欢乐影城（中关村店）",
+      "sellPrice": "35",
+      "addr": "海淀区中关村大街5号中关村广场购物中心3层（爱奇艺创新大厦南侧）",
+      "distance": "14km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [
+          "杜比全景声厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "杜比全景声厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 17304,
+      "mark": 0,
+      "nm": "魔影国际影城（金源店）",
+      "sellPrice": "23",
+      "addr": "海淀区远大路1号院B座五楼西侧001号（居然之家材料馆楼上）",
+      "distance": "14.2km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [
+          "杜比全景声厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "杜比全景声厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减6元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 25045,
+      "mark": 0,
+      "nm": "东融国际影城（西小口店）",
+      "sellPrice": "38",
+      "addr": "海淀区文龙家园四里4号楼4F-08",
+      "distance": "14.2km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [
+          "4D厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "4D厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": ""
+      },
+      "promotion": {
+        "cardPromotionTag": "",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 152,
+      "mark": 0,
+      "nm": "金逸影城（中关村店）",
+      "sellPrice": "40",
+      "addr": "海淀区中关村大街19号新中关购物中心B1层",
+      "distance": "14.4km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    }
+  ],
+  "ct_pois": [
+    {
+      "ct_poi": "936879945111165696_a16285_c0",
+      "poiid": 116256540
+    },
+    {
+      "ct_poi": "936879945111165696_a25172_c1",
+      "poiid": 166727606
+    },
+    {
+      "ct_poi": "936879945111165696_a26195_c2",
+      "poiid": 189719766
+    },
+    {
+      "ct_poi": "936879945111165696_a107_c3",
+      "poiid": 82598
+    },
+    {
+      "ct_poi": "936879945111165696_a26808_c4",
+      "poiid": 191417722
+    },
+    {
+      "ct_poi": "936879945111165696_a25814_c5",
+      "poiid": 184222752
+    },
+    {
+      "ct_poi": "936879945111165696_a27962_c6",
+      "poiid": 1608545587
+    },
+    {
+      "ct_poi": "936879945111165696_a25346_c7",
+      "poiid": 175463726
+    },
+    {
+      "ct_poi": "936879945111165696_a27624_c8",
+      "poiid": 1682285192
+    },
+    {
+      "ct_poi": "936879945111165696_a9459_c9",
+      "poiid": 4572438
+    },
+    {
+      "ct_poi": "936879945111165696_a9647_c10",
+      "poiid": 4058821
+    },
+    {
+      "ct_poi": "936879945111165696_a7433_c11",
+      "poiid": 4845675
+    },
+    {
+      "ct_poi": "936879945111165696_a5111_c12",
+      "poiid": 2374984
+    },
+    {
+      "ct_poi": "936879945111165696_a86_c13",
+      "poiid": 3303603
+    },
+    {
+      "ct_poi": "936879945111165696_a141_c14",
+      "poiid": 38025
+    },
+    {
+      "ct_poi": "936879945111165696_a5502_c15",
+      "poiid": 3320660
+    },
+    {
+      "ct_poi": "936879945111165696_a197_c16",
+      "poiid": 279439
+    },
+    {
+      "ct_poi": "936879945111165696_a17304_c17",
+      "poiid": 156803662
+    },
+    {
+      "ct_poi": "936879945111165696_a25045_c18",
+      "poiid": 165628440
+    },
+    {
+      "ct_poi": "936879945111165696_a152_c19",
+      "poiid": 276722
+    }
+  ],
+  "paging": {
+    "hasMore": true,
+    "limit": 20,
+    "offset": 0,
+    "total": 283
+  },
+  "resId": "1577495795160"
+}
